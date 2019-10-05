@@ -3,6 +3,7 @@
 C++ console realisation of game "Infection"
 
 Rules:
+
 Principles of movement:
 1. Each of your units can move at any direction.
 2. It is possible to move only 2 cells away from current position.
